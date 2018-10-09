@@ -47,6 +47,7 @@
 	padding: 5px;
 }
 .active{
+	color:white;
 	background-color: red;
 }
 </style>
