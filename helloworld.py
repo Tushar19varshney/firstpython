@@ -1,5 +1,5 @@
 def Merger(firstname,lastname):
-    print (firstname + " " + lastname)
+    print (firstname)
 
 firstname =""
 lastname = ""
